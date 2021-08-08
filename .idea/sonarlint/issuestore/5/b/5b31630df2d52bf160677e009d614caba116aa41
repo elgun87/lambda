@@ -1,0 +1,17 @@
+
+c	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÃÿ‚
+N	java:S106"9Replace this use of System.out or System.err by a logger.(©ÚáÌ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+G
+java:S1612",Replace this lambda with a method reference.(×Õê¯úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×Õê¯úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ€ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œèåüøÿÿÿÿ
+c	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‡ü
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Åœ“
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(¯ÕÃëûÿÿÿÿ
+X
+java:S1612A"=Replace this lambda with method reference 'Objects::nonNull'.(ÌÍÿüÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.( áŸùÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºÍÇš

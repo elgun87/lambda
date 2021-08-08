@@ -1,0 +1,27 @@
+Collection it means group of objects.To process the data from collection we use stream concept.For that stream provide a few methods and different mechanism.
+Stream comes java.util package in Java 8.
+
+2 mechanism mostly used to work on data filter() and map().
+filter() - will filter the collection based on some conditions then stores in other collection for further purpose.
+map() - get each element from collection apply some operations on elements and store in other collection.
+map() - get element -> apply some operations -> store in other collection.
+in filter(0 data may be reduce but in map() not.
+We dont process with data of collection directly.
+So we add them into stream.Then apply all methods of stream.But source will not be changed after applying stream method.
+sorted() - after filter() u can sort the data or count() how many elment
+collect() - after filtering data collect the data and store in other collection
+count() - find how meny element u got after filter
+distinct() - get unique
+forEach() - read element
+min() and max()
+this methods internally uses lambda expressions.
+filter() - works with Predicate functional interface
+forEach() - works with Consumer functional interface
+
+----------------------------NONTERMINAL METHODS-----------------------------
+NONTERMINAL METHODS - filter(),map(),flatMap(),distinct(),limit()-they always return stream objects so we can apply terminal methods
+map() - read each element apply action and store in other collection.transform objects.Works with Function functional interface.map always return single object
+flatMap() - if you want to process complex collection (which contains multiple collections) we go with flatmap().flatmap return stream of collections
+distinct() -
+
+----------------------------TERMINAL METHODS--------------------------------

@@ -1,0 +1,10 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÃÿ‚
+k
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ŠÎøP
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºüÍý
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‡üž
+x
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'ToIntFunction<Employee>'(³©óáüÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(©åêµüÿÿÿÿ
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜÅ¡ü

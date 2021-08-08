@@ -1,0 +1,59 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ù÷
+M
+java:S1135"2Complete the task associated to this TODO comment.( İàÕşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦ûİÉ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Á‡‡
+H
+java:S1135"2Complete the task associated to this TODO comment.(­Üœ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€ï‹¢
+h	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éñı½ÿÿÿÿÿ
+H
+java:S1135#"2Complete the task associated to this TODO comment.(üÚı¡
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ùı‰”úÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(£ñÜó
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(©ô–§
+c	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê ¼
+M
+java:S11355"2Complete the task associated to this TODO comment.(¼ùàùıÿÿÿÿ
+i
+java:S1602="SRemove useless curly braces around statement and then remove useless return keyword(‹èÍñ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(Ò‰»
+h	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š„Š‡úÿÿÿÿ
+M
+java:S1135F"2Complete the task associated to this TODO comment.(Ø«ç©úÿÿÿÿ
+n
+java:S1602N"SRemove useless curly braces around statement and then remove useless return keyword(ûìšÏûÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ò‰»
+h	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¸Êøÿÿÿÿ
+M
+java:S1135U"2Complete the task associated to this TODO comment.(ŠƒÑŞüÿÿÿÿ
+n
+java:S1602]"SRemove useless curly braces around statement and then remove useless return keyword(”ÎÉ’ÿÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(Ò‰»
+c	java:S100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íâ×›
+H
+java:S1135e"2Complete the task associated to this TODO comment.(õÚÏ™
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(¾—Šøÿÿÿÿ
+M
+java:S1135l"2Complete the task associated to this TODO comment.(«¢Ëıÿÿÿÿ
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(ªê”ˆ
+c	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ­œ„
+H
+java:S1612€",Replace this lambda with a method reference.(·°Ó™ûÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(·°Ó™ûÿÿÿÿ
+g
+java:S1192:"LDefine a constant instead of duplicating this literal "More grapes" 3 times.(ÿä½Ôùÿÿÿÿ
+e
+java:S11928"JDefine a constant instead of duplicating this literal "One mango" 3 times.(›˜¸™ıÿÿÿÿ
+e
+java:S11927"JDefine a constant instead of duplicating this literal "One apple" 3 times.(™Ã¬ûÿÿÿÿ
+e
+java:S11929"JDefine a constant instead of duplicating this literal "Two apple" 3 times.(ÿ²±ëüÿÿÿÿ
+`
+java:S1192;"KDefine a constant instead of duplicating this literal "Two guavas" 3 times.(øÒ‘k
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çÅ´ûşÿÿÿÿ
+L
+java:S3655n"6Call "element.isPresent()" before accessing the value.(ªê”ˆ
+S
+java:S3655j"8Call "optionalS.isPresent()" before accessing the value.(¾—Šøÿÿÿÿ
